@@ -7,4 +7,4 @@
 4. Hunting for mushrums
 5. And SUDOKU=))
 # I also like cats
-njashnye-kotiki26.jpg
+![njashnye-kotiki26](https://github.com/ArturRy/domashka3/assets/132952278/3a51ab5a-78ae-4294-b7df-fbba119329bb)
